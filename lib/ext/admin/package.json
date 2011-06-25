@@ -9,6 +9,6 @@
   },
   
   "config": {
-    "path": "admin"
+    "path": "/admin"
   }
 }
