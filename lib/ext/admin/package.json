@@ -1,0 +1,14 @@
+{
+  "name": "nabe-admin",
+  "description": "nabe admin module",
+  "version": "0.1",
+  "main": "admin",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mklabs/nabe.git"
+  },
+  
+  "config": {
+    "path": "admin"
+  }
+}
