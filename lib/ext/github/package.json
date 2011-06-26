@@ -1,0 +1,22 @@
+{
+  "name": "nabe-github",
+  "description": "github readmes",
+  "version": "0.1.0",
+  "main": "github",
+  
+  "dependencies": {
+    "request": "1.9.8"
+  },
+    
+  "config": {
+    "path": "/",
+    "github": {
+      "user": "mklabs",
+      "ext": "markdown",
+      "projects": [
+        "nabe:README.markdown",
+        "nabe-demo:README.markdown"
+      ]
+    }
+  }
+}
