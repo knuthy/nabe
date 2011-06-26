@@ -1,7 +1,7 @@
 {
   "name": "nabe-admin",
   "description": "nabe admin module",
-  "version": "0.1",
+  "version": "0.1.0",
   "main": "admin",
   "repository": {
     "type": "git",

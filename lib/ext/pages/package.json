@@ -1,7 +1,7 @@
 {
   "name": "nabe-pages",
   "description": "nabe pages module. Simply exposes page templates in theme/templates/pages as /:page.",
-  "version": "0.1",
+  "version": "0.1.0",
   "main": "pages",
     
   "config": {

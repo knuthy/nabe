@@ -1,0 +1,14 @@
+{
+  "name": "nabe-content-negotiation",
+  "description": "ouputs according response depending on requests' accept header",
+  "version": "0.1.0",
+  "main": "main",
+  
+  "dependencies": {
+    "eyes": "0.1.6"
+  },
+    
+  "config": {
+    "path": "/"
+  }
+}
