@@ -1,0 +1,14 @@
+{
+  "name": "nabe-stylus",
+  "description": "nabe module for Stylus, the Robust, expressive, and feature-rich CSS superset. Compiles .stylus file in into .css ones.",
+  "version": "0.1.0",
+  "main": "main",
+  
+  "dependencies": {
+    "stylus": "0.13.4"
+  },
+    
+  "config": {
+    "path": "/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nabe-jade",
+  "description": "nabe module for the Jade template engine",
+  "version": "0.1.0",
+  "main": "main",
+  
+  "dependencies": {
+    "jade": "0.12.4"
+  },
+    
+  "config": {
+    "path": "/"
+  }
+}
