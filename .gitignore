@@ -1,4 +1,4 @@
 docco
-.swp
+*.swp
 lib/ext/*/node_modules
 node_modules
