@@ -20,12 +20,12 @@
     "git-fs": "0.0.6",
     "jqtpl": "0.1.0",
     "yaml": "0.1.2",
-    "globalize": "0.1.0a2"
+    "globalize": ">=0.1.0a2"
   },
   "devDependencies": {
     "vows": "0.5.8",
     "eyes": "0.1.6",
-    "api-easy": "0.2.0"
+    "api-easy": ">=0.2.0"
   },
   "scripts":{"test":"vows tests/*.js --spec"}
 }
