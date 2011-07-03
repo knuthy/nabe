@@ -9,6 +9,7 @@
   },
     
   "config": {
-    "path": "/"
+    "path": "/",
+    "force": true
   }
 }
