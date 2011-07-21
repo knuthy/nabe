@@ -9,8 +9,6 @@
   },
   
   "config": {
-    "path": "/admin",
-    "user": "mk",
-    "pass": "labs"
+    "path": "/admin"
   }
 }
